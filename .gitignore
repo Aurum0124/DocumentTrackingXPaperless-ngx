@@ -1,0 +1,6 @@
+# .gitignore for root of project
+backend/
+!frontend/
+!.github/
+!.vscode/
+README.md
